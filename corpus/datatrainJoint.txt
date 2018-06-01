@@ -1,0 +1,1075 @@
+0 +_I i can finally finish dildo.photos now that my server migration is finished ! 9999650
+1 -_I this sounds like something that would make me wear bulletproof underwear 9999771
+2 *_D oh i thought it was some sort of edgy tumblr 9999973
+0 *_S my advice to under 18s on Mastodon is : go outside 9998716
+1 *_S but be even more careful what information you post outside 9998903
+2 -_S like whatevs just so long as u don't become one of those dumb teens who read a post on tumblr one time & believe they know how the world works nowlikego outsidepet a dog 9999035
+3 +_A this is extremely good advice 9999162
+4 *_S sub " tumblr " for " reddit " or " 4chan " depending on your political affiliations 9999204
+5 -_A I was that teen and I have nothing but regretzfor me it was usenet tho 9999405
+6 -_A I WAS THAT TUMBLR TEEN AND I AM / SHOCKED / ANYONE WHO KNEW ME DURING THAT TIME COULD PUT UP WITH ME 9999486
+7 -_I I was that tumblr teen but everyone was bullying me for being gay anyway so it didn't make much of a difference ... then I went to a college where EVERYONE was That Tumblr Teen andgoshgoshglad i'm like ... mentally 30 now 9999921
+0 -_I i keep opening bribside even after removing that bookmark . 9999734
+1 +_I Now i'm adding it to / etc / hosts 9999734
+2 +_A Such an amazing way to introduce hard to debug networking issues :) 9999898
+0 -_Q Does anyone ever feel anxious and empty at the same time ? 😞 9997074
+1 -_A yeah a LOT tbh 9999359
+2 -_I lol I feel crazy 9999374
+3 *_A relatable tbh , 9999741
+4 -_I although i know im crazy because of psychosis :/ 9999741
+5 +_I its all gonna be okay for u though , i truly believe that 9999800
+0 -_I So all Christian churches in England are rushing to condemn the terrorist attack last night and distance themselves from it , yeah ? I mean , they bloody well should . So-called ' mainstream ' Christianity hardly ever preaches about getting along with people of different faiths . 9998852
+1 -_A good point . . . 9999727
+0 *_Q so the alternative stack is Postgres Elixir Nginx Iptables Software engineer ? 9998477
+1 *_O challenge : how many resumés you can put that in before someone notices 9999399
+2 *_W i'd need something to replace software engineer but yeah , challenge accepted 9999549
+0 *_S my advice to under 18s on Mastodon is : go outside 9998689
+1 *_A Even if it is raining ! No lightning , though . 9999521
+0 -_I unsure if I will ever be able to be fully open emotionally and sharing with another person so , until then I'll just be that way online to many strangers ! ! 9996074
+1 +_I it might sound paradox , but embracing my paranoia and practicing security culture helped me with that . 💜 💜 💜 9997312
+2 *_O if you don't mind me asking , how did you embrace both things ? 9999467
+3 +_I I'm glad something has helped you :-) 9999467
+0 -_Q Does anyone ever feel anxious and empty at the same time ? 😞 9997074
+1 -_W all the time 9997948
+2 -_I i feel like I'm losing my mind a little bit 9998097
+3 -_A relatable . im always anxious and if im not feeling empty or depressed im angry . also usually dissociating . 9998217
+4 *_I i needa go smoke 9999159
+5 +_H have a good time then ! enjoy your smoke . 9999203
+6 +_A i sure will , 9999305
+7 +_T thank you so much . 9999305
+8 +_H I hope you start feeling a lil better today ❤ ️ 9999305
+0 -_I It's a lot harder to do brand-building on here , especially with my lower follower count . 9999052
+1 +_R heres my advice : do a bunch of really long posts and people will share them , think just out of politeness for your hard work 9999256
+0 -_I Fuck , I forgot Devil Daggers exists ... 9998748
+1 +_I now that's a goddamn video game 9998748
+2 +_I I have been testing a hypothesis that the sound design in that game is so good that you could play it blindfolded 9999180
+0 *_S my advice to under 18s on Mastodon is : go outside 9998716
+1 *_S but be even more careful what information you post outside 9998903
+0 *_I So I wrote about Doom , and a part of its legacy that I feel a lot of old-school first-person shooters pass over . <URL> <URL> 9963460
+1 *_I deep in the nuances of the former human ( Zdoom decorate ) code recently , i was struck by how long the delay between their " aim " and " fire " frames are , 0.2857 seconds . i realized how much of my playing in hitscanner-heavy areas is about exploiting this window . 9997512
+2 +_I What a strangely specific value . I wonder how much tweaking went into it . 9998026
+3 *_I It's 10 tics ; tics in Doom are 1/35 of a second , an even 2X of 70Hz the vsync rate of the VGA mode Doom used . 9998528
+4 +_A Ah , that makes a lot more sense , 9998902
+5 +_T thank you . 9998902
+0 *_O why ? 9998628
+1 *_W Its a longf Story 9998815
+0 -_I for my interpretation , no precincts were won by the Green Party.https :/ / hackers.town/media/VuxIg-hCSmk8VkAVkJo 9997069
+1 *_Q green and yellow show up in redshifting , though , right ? 9997660
+2 -_I This isn't rotation - - it's shearing away from us , each vote travelling at a speed that either blueshifts to exactly this blue or red . What a strange phenomenon ... 9997660
+3 -_A Hmm ... I guess that does make more sense , 9997820
+4 -_I now that I look at it ... No WONDER he was kicked out ! His sciency analysis wasn't even correct ! 9997820
+5 -_I xkcd can be pretty funny sometimes , but I wonder if we're putting too much pressure on him to perform 9998721
+0 -_R fite me 9996783
+1 *_I ur on mastodon 9997128
+2 -_I only because #pleroma isn't finished yet and i didn't want to run LAMP shit . 9997616
+3 *_I i used to be on social.heldscal.la 9997616
+4 -_I ( not to be confused with the much more evil social.headsca.la ) and loadaverage before that ( and iamover18.org before that ) 9997616
+5 *_I installing php and nginx isn't magic 9997679
+6 *_I She also wanted an iOS app . 9997842
+7 -_I There aren't any for GS . 9997842
+8 -_R hahaha fn dropped abandon your smartphones you fucking normies 9997913
+9 -_I or i'll have the CIA drone you 9997913
+10 *_I i'm build a zero terminal some day to replace my smartphone 9998004
+11 +_I meanwhile i'm at the train station with my x201 creating sweet ass melodies in FL Studio while waiting for the train 9998126
+0 *_H good morning 🌸 9995570
+1 *_H g'morning 9995645
+2 *_O how are you ? 9996862
+3 -_W terrible anxious honestly . 9997010
+4 +_I I hope you're better . 9997010
+5 -_I i'm sorry to hear that . 9997789
+6 +_I i'm doing okay so far . 9997789
+7 +_I hope you feel better soon 9997789
+8 +_T thank you ❤ ️ 9998064
+0 -_I i can feel my teeth hurting just from you talking about it hhhhn 9996245
+1 -_I nah like my teeth r sensitive too but idk Why i still do it 9998045
+2 -_M im sorry 9998045
+0 *_O Okay , what's the thing with the pineapples ? 9280070
+1 +_W One night <MENTION> started giving them to everyone . Like literally EVERYONE . ( There where a lot less people around then ) Since then it's been a thing . Often used as a welcome getting to new users . 9280776
+2 +_T Thank you both ! 🍍 🍍 9282318
+3 +_I I love the history of the pineapple as a welcome gift . <URL> 9936732
+4 +_I That's pretty great ! 9997908
+5 *_I I had no idea ! 9997908
+0 +_I Finally installed a #Tox client . 7277241
+1 +_I My tox id is attached if anyone wants to chat . :) 187FD39D85F480BD72DE69518A9005E20085FE3239CEA6FAE202ED15EDBF2E18F6AB3541348F 7277241
+2 *_I Installed a toxclient on another machine . 9996796
+3 -_I Apparently , there's no support for multi-device identities in #Tox , 9996796
+4 +_I so I'm also available at the following tox id . A033E40C1B0EFD3C350EFB9317022B565D29FC2A3397C07BBB5CA75F15E1646BD35E5E91E26D 9996796
+5 -_I I can't seem to find out anything about tox . 9997809
+6 *_Q is it like bitmessage ? 9997809
+7 *_O how does it work ? 9997809
+0 +_Q Microsoft loves Linux ? 9997330
+1 +_A Ya . 9997330
+2 -_I A bunch of lip service . No mention of Linux in new Skype : <URL> 9997330
+3 -_D Oh , no , they / do / love Linux ! They just think that it should stay in its place as an amazing server OS . =( =( =( 9997591
+0 -_Q Does anyone ever feel anxious and empty at the same time ? 😞 9997074
+1 *_W probablybut not to the degree which u do lvl 😦 9997540
+2 -_Q Does anyone ever feel anxious and empty at the same time ? 😞 9997074
+3 -_W pretty regularly tbh 9997227
+4 -_I i feel fucking crazy right now 😞 9997499
+0 *_Q Btw anyone have for taking good art pictures ? 9990791
+1 -_I Even my scanner is badMy paintings have little colors variations that never shows in pictures I'm sad :/ 9990791
+2 +_W Probably best with a DSLR , a tripod and good lighting . 9996809
+3 -_I I also have problems getting things like colored sketches or pieces with color pencil digital 9996809
+4 *_I but have to admit I haven't tried it with a DSLR yet , only scanner , smartphone or digital compact camera . 9996809
+0 -_I just ate a bunch of garlic if anyone feels like kissing me 9996695
+1 +_I tasty ! 9996726
+0 *_O do yall bite into popsicles / ice cream or am i the only one 9995686
+1 *_W i always bite ice cream uuhhhh 9996696
+0 *_I so back from meditation and some reason I am way hornier ... I need to be fucked . 9995078
+1 *_A I feel this . 9996376
+2 +_V I hope you can get some . 9996376
+0 *_Q i want money without having to revealing my birthname or doxxing myself is thag too much to ask for 9995626
+1 *_S hmm ... bitcoin perhaps ? 9996048
+0 *_O Should I Mate or should I Cinammon ? 9959480
+1 *_W definitely cinnamon . 9995971
+0 *_O Should I Mate or should I Cinammon ? 9959480
+1 *_W definitely cinnamon . 9995971
+2 -_I Couldn't install neither ... Lack of support for my " old " Radeon 6750 , at least in the live versions . 9995965
+0 *_Q i want money without having to revealing my birthname or doxxing myself is thag too much to ask for 9995626
+1 *_W we all do . 9995757
+2 *_R let me know if you figure it out , PLEASE ! ! 9995757
+3 *_S bitcoin maybe ? 🤔 9995806
+4 *_I getting the money isn't an issue , it's what you do to get the money that is more the issue . 9995906
+0 *_I all this is but a very elaborate cute girl harem emulator 9994843
+1 -_I that is romantic for very sad definitions of romantic 9995260
+2 +_I properly immersive vr would be super freeing . if you could leave meatspace even moreso . you could be whoever you wanted to be . knowledge workers wouldn't even be at a disadvantage for being virtual . 9995829
+0 *_Q do yall bite into popsicles / ice cream or am i the only one 9995686
+1 -_W hey what the fuck ? ? ? dont fucking do that ? ? ? 9995718
+0 *_I Bisexual people are valid regardless of who they date . 9993067
+1 +_I This isn't a difficult concept to grasp lol 9993067
+2 +_T thank you 9995620
+0 -_I < very von karma voice > BLEIGH ! I vant to suck your blood ! 9990046
+1 -_I I cringed so fucking hard when I saw Phoenix show him the letter . Like , yeah show the evil evidence destroying supervillain the one single proof you have against him 9995574
+0 -_I Random anxiety flareup for no reason again . 9995565
+1 -_O Whee.Where can I go exchange this brain for a replacement ? 9995565
+2 +_R if you find a good shop , let me know ; w ; * flappy squeeze offer * > w < 9995558
+0 *_I currently trying out this tox thing . my tox id : 4F059BDC1C0218DA220793731198F0BA37471BE2970CE68FB7AA8279501E965C48BBCE91A8CA 9995108
+1 *_O Hmm , what is it about ? I mean , tox thing ? 9995354
+2 +_I Found their blog 9995354
+3 -_I but can't find much information ( yet ) . 9995354
+4 *_R another im . check out <URL> 9995557
+0 +_J holy shit 9994842
+1 +_I my favorite toku themes are on my home timeline what a good day 9994842
+2 +_O whats ur top fav 9995185
+3 +_I ( my top is probably if it counts , yoshiko and the key of evil spirits opening ) 9995185
+4 +_W it's always hard to pick these kind of things , but I " d have to say the kind of 90s action anime stylings of the first GoBusters theme <URL> 9995373
+5 *_I BUSTERS READY GO IS SO TIGHT ! ! ! it was my ringtone for yearrrrsss 9995437
+0 +_J holy shit 9994842
+1 +_I my favorite toku themes are on my home timeline what a good day 9994842
+2 +_O whats ur top fav 9995185
+3 +_I ( my top is probably if it counts , yoshiko and the key of evil spirits opening ) 9995185
+4 -_W My favorite ... this is hard . 9995337
+5 *_W REALLY depends on mood with me . If I want something energetic , or something moody ... like , sometimes only the Decade theme will do 9995423
+0 *_I 5PM : Shopping in Lyon's biggest shopping center 9994486
+1 -_I 6PM : Protest against Macron 9994486
+2 -_I this toot is full of dark bourgeois energy 9995414
+0 +_I It is not enough that I must be good , I must be better than you . ;) 9995268
+1 *_F oh i see how it is > : 3 9995410
+0 -_O what the hap is fuckening 9995291
+1 *_W its 8am and im deciding if im ready to go to bed yet or not B ) 9995407
+0 -_I i cant make a cash.me account because it doesnt see my zip code as valid , get fucked lol 9994917
+1 -_I i can't make a cash.me account because my address is incredibly invalid by the tune of , like . an Ocean 9994993
+0 +_I at least now I know what I need to play this morning to get me going : <URL> 9994275
+1 -_I aaaa I got cheated the clip's bad 9994560
+2 +_I fine , I'll go to a reliable fallbackhttps :/ / www.youtube.com/watch?v=ENHhRoS3RmE 9994737
+3 +_I im a big fan of spinning wheel myself 9994912
+0 *_I considering moving to another instance ... 9993774
+1 -_I i'll give it a few more days , but so far the number of 20 - something Leftist People Who Like Video Games and Anime seems ... pretty low 9993774
+2 +_S at the correct hour we'll join tht magical french one 9994878
+0 +_I at least now I know what I need to play this morning to get me going : <URL> 9994275
+1 +_A i love this theme Y_Y 9994748
+0 +_I at least now I know what I need to play this morning to get me going : <URL> 9994275
+1 +_A HELL YEAH ! I love the 45 x 40 performance . 9994542
+0 *_I I only rarely don't read a post that's behind a warning I know may trigger me . I am very curious 9974384
+1 -_I and also unconsciously self inflict pain on to myself 9974384
+2 +_I it's good when you get a choice and a moment to prepare , even if it barely helps . 9994433
+3 +_A yeah you are right , I agree ! 9994529
+0 +_I Toqger was surprisingly good . I love the season . 9993975
+1 +_A oh , yeah , it got _really_ good , 9994439
+2 -_I and I found myself missing it frequently during the next season > _ > 9994439
+0 *_I you , a good person : can formulate their feelings caused by bpd perfectlyme , banging on pots and pans with spoons and screaming as loud as i can : BPD ! BPD ! BPD ! BPD ! 9991371
+1 *_A lol same =/ 9994311
+0 *_Q I'm the only one seeing thoses ? <URL> 9969485
+1 *_W I had that same moment once ;) It was in , I think , Hyouka . 9994111
+0 *_I Hum ... This site uses ads in the MIDDLE of its articles content . 9993521
+1 -_I I find it intrusive . Ad services started this war with popups , tracking , autoplaying videos ... 9993521
+2 -_A this website is just * * horrible * * … 9994017
+0 *_O What the heck are Tankies ? 9987343
+1 *_W People who think that Stalin's repressions , including Holodomor and the 1930s purges , either didn't happen , happened in greatly reduced numbers , or were somehow " justified " . 9993628
+0 -_I I've decided that YouTube ads are one of the most annoying things created by mankind . 9924178
+1 +_I But for $ 10 a month , Google promises to stop annoying the ever-loving $ & <MENTION> # out of you ! 9993306
+0 *_E Quick , let me put on my hair mask and continue to watch Chewing Gum . Going to go grab my water bottle and everything . 9992368
+1 +_Q is chewing gum good ? 9992445
+2 -_I I never watch new shows cause I'm always scared for unexpected vomit scenes 9992445
+3 *_I Haven't seen any vomit scenes yet . 9992954
+4 -_S Maybe don't watch if you're scared of blood ❤ 9992954
+0 +_I it's kind of interesting to see people attempting to police a free service and asking for money to do so . loooool 9992487
+1 *_A You're right , 9992592
+2 -_S people should labor for you for free . 9992592
+3 *_Q I'll assume you aren't supporting your instance's admin ? 9992592
+4 *_W if you can monetize a free service , have at it . supporting the hosting fees is completely different than paying the admin . 9992928
+0 *_Q Is the combo 🔁 + ⭐ a marriage proposal ? 9992801
+1 *_W Now I'm afraid to boost and star this post . 9992916
+0 +_I aight actually here's me looking tan again even though im not . 9992799
+1 +_T thanks lighting <URL> 9992799
+2 *_I someone photographed you while sleeping , be careful ! 9992889
+0 -_I You're obviously running two identities right here ; 9991539
+1 *_Q are they divergent ? Is one a clone of the other ? 9991539
+2 *_W I never toot onto the cybre identity , and I run a cross-posting script to put things there that I've tooted on my main identity . 9991667
+3 *_E I may , one day , retire that once completely.CC : <MENTION> 9991667
+4 *_I I don't often look at the local timeline on cybre - 9992219
+5 *_E I may yet make sure I do that semi-regularly.CC : <MENTION> 9992219
+0 +_I seeing the chance to finally leave facebook behind without coming across as rude 9992060
+1 +_S DO IT GUYS TELEGRAM MAKES EVERY FRIENDSHIP BETTER 9992060
+2 *_Q like , actual telegrams ? 9992107
+3 +_I probably better than gopnik whatsapp 9992192
+0 *_H Good morning . 9984183
+1 *_H Morning ! 9987238
+2 *_H Hey , 9990149
+3 *_O how are you feeling ? 9990149
+4 +_W Better today , 9990934
+5 +_T thank you . 9990934
+6 +_W Not at 100 % , but getting there . 9990934
+7 +_M Glad you're getting better . 9992187
+8 +_V Here's wishing for continued improvement . 9992187
+0 +_I beautiful 9991259
+1 -_I now counting down to " why isn't there a white stripe ? " 9992181
+0 -_I So instead of the nice predictable wlan 0 and eth 0 we have some completely random device names . Thanks systemd . 9985492
+1 +_D ... but you aren't supposed to have to know about such details , since everything is being automated for your convenience by the system ( d ) . 9990814
+2 -_D I can't decide if your message is first degree ... 9992144
+0 -_I Pleroma is the Dark Souls of Ostatus servers . 9991891
+1 -_A will be the Dark Souls II of it 9992011
+2 +_I ( just need time to start a proper thing ) 9992011
+3 *_I " just need time " ;) 9992071
+4 *_I At the end of my internship :P ( So starting in August ) 9992136
+0 -_I Pleroma is the Dark Souls of Ostatus servers . 9991891
+1 -_Q not optimized and hard to use ? 9992088
+2 -_A yeah . 9992117
+0 *_O but then how can i talk 2 takeshitakenji :/ 9991663
+1 *_W idk telegram vk email gnusocial xmpp there's tons of options where your cousin can't tag you in images 9991812
+0 -_I My internet cut out last night because of a storm . 9991805
+1 +_I It's back now . 9991805
+2 -_I UGH weather > : C 9991798
+0 *_I You've all heard of fidget spinners , I'm sure . 9990120
+1 *_Q But have you considered that you may be a fidget SINNER ? 9990120
+2 *_H Hi , I'm Greg , the new youth pastor 9990120
+3 *_R May I post this everywhere ? 9991729
+0 *_I you , a good person : can formulate their feelings caused by bpd perfectlyme , banging on pots and pans with spoons and screaming as loud as i can : BPD ! BPD ! BPD ! BPD ! 9991371
+1 *_A im screaming 9991544
+0 *_Q Do You listen to any #podcast ? Any suggestion ? 9986586
+1 +_W I think Intercepted is the best podcast right now . High production value , too notch guests , and consistent challenges to the way I think about current events #news #politics <URL> 9991355
+0 +_I 🎶 I am gonna make it through this year / If it kills me 🎶 9987026
+1 *_I I was just listening to The Sunset Tree ! 9987023
+2 *_I I have yet to listen through the album ; somebody just recced that song to me before the weekend . 9991349
+3 +_Q Do you like The Sunset Tree ? : 0 9991349
+0 +_I 🎶 I am gonna make it through this year / If it kills me 🎶 9987026
+1 *_I I was just listening to The Sunset Tree ! 9987023
+2 *_I I have yet to listen through the album ; somebody just recced that song to me before the weekend . Do you like The Sunset Tree ? : 0 9991349
+3 +_A I love it ! It can get heavy and has some themes about abuse , though , so definitely a heads-up there . 9991348
+4 +_I Admittedly , those themes are why I like it so much , haha . I use it to deal with things . It's a really quality album . 9991348
+0 -_I So instead of the nice predictable wlan 0 and eth 0 we have some completely random device names . Thanks systemd . 9985492
+1 *_S If you want the classic names back , you can simply add net.ifnames = 0 to the kernel commandline on your bootloader :) 9988809
+2 +_A that may be a better solution 9991137
+0 +_I i Love you 9990856
+1 +_R please breathe you're not crazy 9990856
+2 +_T thank you so much 9990956
+3 +_I love you too this is v validating 9990956
+4 +_T and im so thankful 9990956
+0 *_I [ trips ] me : you know this wouldn't happen if capitalism - 9944566
+1 -_I Yo what if every modern anti-black talking point derived from some neebish racist commentator / coin ass nigga watching BET Comic View 9951459
+2 -_A I wouldn't be surprised 9990871
+0 *_I You've all heard of fidget spinners , I'm sure . 9990120
+1 *_Q But have you considered that you may be a fidget SINNER ? 9990120
+2 *_H Hi , I'm Greg , the new youth pastor 9990120
+3 *_I Jesus had a fidget spinner too , you know . Except he called it God's Love , and he gave everyone one , 9990564
+4 -_I and actually this metaphor isn't going as well as I thought it would " 9990564
+0 +_I from the looks of it , it might be secure boot getting in your way ... 9987180
+1 *_I This may or may not be helpful : <URL> 9987180
+2 *_R Next restart , 9990458
+3 *_E I'll try again 9990458
+0 *_I This one guy in the katar challenge is wearing a kimono ( he is NOT Japanese nor inherited a Japanese style , near as we can tell ) 9986584
+1 -_I and it's slowly killing us . 9986584
+2 *_I he made a very good katar bu-OH MY GOD ANOTHER ONE 9990410
+0 *_H good morning ( ^ _ ^ ) 9987707
+1 *_H Mornin ' :) 9990373
+0 *_Q any juicy #socialcoop stats to share with us ? 9978581
+1 *_I Re : new users etc . - starting to see more and more new faces . 9978581
+2 *_I I'm a data scientist 9986503
+3 +_E and willing to help parse logs , crunch numbers , and visualize the data if you need 9986503
+4 +_A that'd be nice ! 9990371
+5 *_I I'm on a retreat this week ( working on alternative currency design , and enjoying the blue Med - also why I haven't yet upgraded to the latest Mastodon ) 9990371
+6 *_S but why don't we look into that soon ! 9990371
+0 *_I im medicated 9901825
+1 *_O how are you 9901825
+2 *_W Also medicated . 9989839
+0 -_I I just spent some time unsubbing from podcasts and they're still out of control 9988348
+1 -_R send help <URL> 9988348
+2 -_I your phone is loooong 9988611
+0 *_Q Do You listen to any #podcast ? Any suggestion ? 9986586
+1 *_W currently it's 99pi , intercepted , and myths and legends . 9989657
+2 -_I Don't really have more time during a week , so I'm pretty ruthless with what makes the cut . 9989657
+0 -_I Oh thank / god / spent last night too hot to sleep and after eventually nodding off whilst watching babylon 5 9989439
+1 +_I it's dropped a whole 4 degreesthis is far more tolerable 9989439
+2 *_O 4C or 4F ? 9989544
+3 *_W non freedom units ( so c ) 9989572
+0 -_I So , all of us getting cross about Twitter's terms and conditions / 9963394
+1 *_R Do Not Track changes , 9963394
+2 -_S remember you also need to take off the social media buttons on your blog . 9963394
+3 -_I Like I forgot to . 9963394
+4 *_A done , 9989251
+5 +_T thanks for the reminder . 9989251
+0 *_H good morning ( ^ _ ^ ) 9987707
+1 *_H morning ! 9988966
+0 *_Q hey , are you planning to update signal-muon ? 9697491
+1 -_I there's probably no way to update signal version by rebuilding app ? 9697491
+2 +_T thanks ! 9697491
+3 *_A yup it's on my todo 9773612
+4 +_I aaand it's updated 9925426
+0 *_I I can make you warm and sticky ;D 9988772
+1 *_A yr thirstposting already has babe 9988829
+0 *_I someone draw a flying benis with a tail so I can call it a dragon . 9988753
+1 *_I the german word for tail ( schwanz ) is usually used to refer to a benis 9988749
+0 *_O what about feminine benis ? 9988548
+1 *_W did i mention any exceptions ? 9988665
+0 *_I this wouldn't have happened without a government 9987736
+1 *_A I bet it wouldn't have happened without drumpf either ! 9988011
+2 -_I drumpf is a government and therefor it is every man's duty to oppose him women can do , like , whatever man as in person with attached benis woman as in person with no benis whatsoever 9988174
+3 *_O what about feminine benis ? 9988548
+4 *_W it's sitll a benis 9988629
+0 -_I I just spent some time unsubbing from podcasts and they're still out of control 9988348
+1 -_R send help <URL> 9988348
+2 -_A Too many podcasts to listen to unless you want to spend every waking hour listening to them in order to keep up to speed . 9988537
+0 *_Q worst is this inspired by russia sushi ? 9987750
+1 *_I I kinda wanna watch durarara again now 9987851
+2 *_I since when did have an unproductive day right now it's only 1 less than what freedoom has , I also think it's time for some GS related drama / issues this time 9988237
+0 +_I i actually like pulse 🙃 9986742
+1 +_I per-process sound control is a cool feature , but on the other hand , not crashing randomly is a pretty big plus on the side of ALSA 9988082
+2 +_A this is also true , 9988168
+3 *_I but I haven't had that big of an issue with pulse crashing ... also it's nice to have more than one application play audio at once :p 9988168
+0 *_H good morning ( ^ _ ^ ) 9987707
+1 *_H good morning : 3 9988086
+0 +_I 29C in my city . We're having a rather chilly week : 3 9984667
+1 -_I 36C for the next 4 days for me > < 9987731
+0 -_V Holy fuck 9987514
+1 -_A silent fuck 9987537
+2 -_A all is fuck 9987638
+0 *_I So , every day of the past week I woke up at around 4:35 in the morning and felt pretty awake but then I always went back to sleep and when I try to get up at 7 I feel like there will never be enough sleep on the planet for me.Maybe I should start my day at 4.35 ? 9979116
+1 *_S Could you wake at 4:35 and take a siesta after lunch ? Or maybe the Two Sleep system might work for you . 9987594
+2 *_S There are reports that the single sleep mode is a recent invention . A few short centuries ago . 9987594
+0 -_I I miss IRC can't reach my raspi right now , wonder what happened to it , need to check it out when I get home 9987021
+1 *_I ssh irc.sircmpwn.com uptime 13:42 : 55 up 630 days , 15:24 , 1 user , load average : 0.00 , 0.03 , 0.05 9987575
+0 -_I So instead of the nice predictable wlan 0 and eth 0 we have some completely random device names . Thanks systemd . 9985492
+1 +_D even better , I'm pretty sure this change was in the effort of creating predictable device names , how wonderful that now you need to ` ip link show ` in order to even know what your interfaces are called now ? Saves so much time compared to ` ifconfig eth 0 ` ! 9987527
+0 *_Q Do You listen to any #podcast ? Any suggestion ? 9986586
+1 +_W #teamhuman is great . 9987286
+2 +_A already on my subscription list , 9987383
+3 +_T thank You Matt 9987383
+0 +_J Wow , 9987363
+1 +_I I actually slept at a semi-reasonable time for once . 9987363
+2 +_J :D Yay ! 9987358
+3 +_V One day I hope to equal this accomplishment :P 9987358
+4 -_I I went to sleep at like 02:30 and had to wake up at 05:30 . 9987358
+0 +_I one more reason to make this stick and try it ;) 9885356
+1 *_E I will keep You posted 9885356
+2 -_I Godspeed ! Seems like making the stick is often the hardest part :) . Too bad they don't give them out like AOL cd's back in the day ... 9887773
+3 -_I USB stick should be ready ready but ... My Win 10 laptop doesn't let me go on boot setup . I tried pressing ESC , F2 , F12 . No response . 9987000
+4 -_O What should I do ? :-( 9987000
+5 *_W from the looks of it , it might be secure boot getting in your way ... This may or may not be helpful : <URL> 9987180
+0 -_I I upgraded from Jessie to Stretch yesterday but I got a couple of errors by doing so . Now I decided to install Stretch directly from a small image since my USB stick doesn't have enough space , but I got stuck with the mirrors . 9986081
+1 +_I Fresh install is usually good . I don't have much data in my computer so I can format the HD always clean 9986437
+2 +_I I do not have much data as well , 9987020
+3 -_I but I cannot afford to format my HD because I also have Windows installed . 9987020
+4 +_I Fresh installs are always the best choice . 9987020
+0 -_I Windows update crashed my grub bootloader ... That's not what I'd expect an OS update to do ... 9972353
+1 -_D but exactly what I'd expect Windows to do . 9986785
+0 -_I i really hate having allergies need to move to a new locale that i'm not allergic to 9986102
+1 *_S move to en-CA 9986596
+2 +_A ye the shortlist is oregon , washington , and california 9986675
+0 -_R Help ! ! ! 9986371
+1 -_O How do you add cws on tusky ! ! ! 9986371
+2 *_W in the bottom left corner of where u make the post , the post privacy options list has a little check box to hide text w a warning 9986549
+0 +_Q Hey <MENTION> and <MENTION> - any juicy #socialcoop stats to share with us ? 9978581
+1 +_I Re : new users etc . - starting to see more and more new faces . 9978581
+2 *_I I'm a data scientist 9986503
+3 +_E and willing to help parse logs , crunch numbers , and visualize the data if you need 9986503
+0 -_I Other operating systems : " Don't say the fuck word ! " Windows 10 mobile : " Duck ? Clearly you mean fuck . Would you like to remove ' duck ' from your dictionary ? " 9984005
+1 +_D The funny thing with this is the windows 10 desktop / tablet kbd is the EXACT opposite of this . It Will . Not . Let you say fuck . 9984980
+2 -_E You have to like manually change it back from " duck " several times and it won't add swears to the dictionary . 9984980
+3 -_I It's bad 9984980
+4 +_A same for Android , though Swiftkey is better there 9986362
+0 -_I Other operating systems : " Don't say the fuck word ! " Windows 10 mobile : " Duck ? Clearly you mean fuck . Would you like to remove ' duck ' from your dictionary ? " 9984005
+1 +_D The funny thing with this is the windows 10 desktop / tablet kbd is the EXACT opposite of this . It Will . Not . Let you say fuck . 9984980
+2 -_E You have to like manually change it back from " duck " several times and it won't add swears to the dictionary . 9984980
+3 -_I It's bad 9984980
+4 -_S let windows say fuck 9986134
+0 -_I so a dicision im milling over whilst i wait for washing to finish.get hair cut or not.its at a long length , 9980650
+1 *_I but i do fancy not having a boiling head.my hair is thick as well so soaks all the rays 😁 9980650
+2 *_I guys hair grows faster ? ? I'd have it cut 9981842
+3 +_A its just more the heat than anything . i know ill regret it right after , but then will just hold my breath for it to grow even quicker 😁 9982044
+4 *_I mine was down to my shoulders if i brushed it properly . 9985931
+5 -_I but its also really thick , so the heat just gets really bad 9985931
+0 *_Q Does anyone have recommendations for plants suitable for an office desk ? 9982602
+1 *_O do you have natural or artificial light ? 9985773
+0 +_I Google Slides ! 9962969
+1 +_E I will give it a try , 9985720
+2 +_T thank You ;) 9985720
+0 -_I So instead of the nice predictable wlan 0 and eth 0 we have some completely random device names . Thanks systemd . 9985492
+1 -_O What do you mean ? 9985694
+2 +_I I * love * my very predictable device name , " enp 1s25 " . It's much better than the one I had two reboots ago . 9985694
+0 +_J Wow , 9950452
+1 *_I has it really been almost 20 years since I moved out of California ? Time flies . 9950452
+2 *_I time flies when your not surrounded by the scum of north america ... Aka californians ( for the most part ) 9985610
+0 -_I Other operating systems : " Don't say the fuck word ! " Windows 10 mobile : " Duck ? Clearly you mean fuck . 9984005
+1 *_S Would you like to remove ' duck ' from your dictionary ? " 9984005
+2 -_I The funny thing with this is the windows 10 desktop / tablet kbd is the EXACT opposite of this . It Will . Not . Let you say fuck . You have to like manually change it back from " duck " several times and it won't add swears to the dictionary . It's bad 9984980
+3 -_I <MENTION> deplorable 9985035
+4 *_I they're making the desktop / tablet kbd more like the phone one in insider builds now . 9985106
+5 +_I I haven't tested it yet tho so idk if that includes autocorrect behavior , but it ducking better 9985106
+0 -_I Other operating systems : " Don't say the fuck word ! " Windows 10 mobile : " Duck ? Clearly you mean fuck . Would you like to remove ' duck ' from your dictionary ? " 9984005
+1 -_I The funny thing with this is the windows 10 desktop / tablet kbd is the EXACT opposite of this . It Will . Not . Let you say fuck . You have to like manually change it back from " duck " several times and it won't add swears to the dictionary . It's bad 9984980
+2 *_I If I'm being honest , I almost never say duck , and I say fuck way too much . 9985096
+0 -_I Other operating systems : " Don't say the fuck word ! " Windows 10 mobile : " Duck ? Clearly you mean fuck . Would you like to remove ' duck ' from your dictionary ? " 9984005
+1 -_I The funny thing with this is the windows 10 desktop / tablet kbd is the EXACT opposite of this . It Will . Not . Let you say fuck . You have to like manually change it back from " duck " several times and it won't add swears to the dictionary . It's bad 9984980
+2 -_I bad ! bad input method ! 9985091
+0 *_V I swear , 9983285
+1 *_E one day I'll move to Scandinavia . 9983285
+2 +_V You're most welcome ! 9984989
+3 -_I ( At least , I think so - our horribly strict immigration laws might disagree :( ) 9984989
+0 *_O What is the " theory " <MENTION> has that John referred to when Adam talking about old-time doctors typically treating women with instruments of a " vibratory nature " ? 9984884
+1 *_Q are you talking about hysteria ? 9984874
+2 *_W or the idea that the hysteria was caused by ' wandering uterus ' 9984870
+0 *_O What is the " theory " <MENTION> has that John referred to when Adam talking about old-time doctors typically treating women with instruments of a " vibratory nature " ? 9984884
+1 *_Q are you talking about hysteria ? 9984874
+2 *_W or the idea that the hysteria was caused by ' wandering uterus ' 9984870
+3 *_I It sounded like an " inside joke " from a previous show or private conversation . Given the nature of <MENTION> ' s enjoyment at the thought , I too am INTRIGUED . 9984868
+0 *_O What is the " theory " <MENTION> has that John referred to when Adam talking about old-time doctors typically treating women with instruments of a " vibratory nature " ? 9984884
+1 *_Q are you talking about hysteria ? 9984874
+2 *_W or the idea that the hysteria was caused by ' wandering uterus ' 9984870
+3 *_I It sounded like an " inside joke " from a previous show or private conversation . Given the nature of <MENTION> ' s enjoyment at the thought , I too am INTRIGUED . 9984868
+4 *_I Indeed a private joke . 9984862
+5 *_E I will never reveal it ! 9984862
+0 *_H hi mastodon 9948571
+1 +_I just wanted to let yall know i just got asked out by The Best Girl ever and i love her and im Gay 9948571
+2 +_M NICE CONGRATS 9984230
+3 +_T THANK U 9984577
+0 -_I Nazis are literally trying to kill me . You think I'm gonna fuck around with this shit ? 9983919
+1 -_R Think a-fucking-gain . 9983919
+2 *_Q If you could skip the country and go live somewhere else , would you ? 9984158
+3 -_Q do you think Nazis won't try to kill me somewhere else ? 9984273
+4 -_I They've already removed most of my ability to work making me unable to pay for medical treatment . They can do that from anywhere . 9984273
+0 -_O why is everyone RTing selfies 9984023
+1 *_R please have the common sense to not do that 9984023
+2 -_M Oh , I'm sorry ! Won't happen again . 9984147
+3 *_A its ok just . in general probably shouldnt 9984175
+4 -_I unfortuantely you were not nearly the only one 9984204
+0 -_I Other operating systems : " Don't say the fuck word ! " Windows 10 mobile : " Duck ? Clearly you mean fuck . Would you like to remove ' duck ' from your dictionary ? " 9984005
+1 +_I what a good keyboard 9984103
+2 +_A pap pap good input method 9984154
+0 *_S at least one of us should write hadrian / samsam dp right 9960274
+1 *_R PLEASE ... 9984130
+0 +_I that 2 am thirst when u sign up for all the dating websites 🙈 🙈 9921595
+1 *_O where the cute girls near me at ? ? 9921595
+2 *_W Well , I'm on the same continent ! 9921894
+3 +_I that's a start 😁 9982581
+4 *_O where you at ? 9982581
+5 *_W Sweden . A little far from Austria , 9983200
+6 +_E but if you ever move here I'll take you out ! ♥ 9983200
+7 +_A the offer is reciprocated 😊 😍 9983695
+0 *_O Does anyone have recommendations for plants suitable for an office desk ? 9982602
+1 +_W cacti ? They look interesting , need very little attention and can help smite the fingers of your enemies . Sort of an all-rounder 9983430
+0 +_I i follow like 2-3 thirstposters now and wow the daily thirst increase is real 9982705
+1 *_I hehe 9982749
+2 *_I due to meds i am generally not very thirstythanks a lot mastodon . thastodon 9982804
+3 +_D I'm thirsty as fuck 9983150
+0 +_I The best compliment anyone's ever given me is " You would be a good Zarya cosplayer . " I'm not even in shape , but I got the body type for muscles . 9982890
+1 +_I Cosplay is beyond shape and muscle or color or gender etc etc etc 9983073
+0 +_I The best compliment anyone's ever given me is " You would be a good Zarya cosplayer . " I'm not even in shape , but I got the body type for muscles . 9982890
+1 *_I Pink hair ! Pink hair ! 9982948
+0 +_I i follow like 2-3 thirstposters now and wow the daily thirst increase is real 9982705
+1 *_I hehe 9982749
+2 *_I due to meds i am generally not very thirstythanks a lot mastodon . thastodon 9982804
+3 -_D thirstodon 9982854
+0 -_Q Doesn ’ t the FP mosque have a jihadi history ? 9982365
+1 *_W Way back when . It's been closed and re-opened since then.https :/ / en.wikipedia.org/wiki/Finsbury_Park_MosqueMy point wasn't about the ideology though , but about accurate reporting of what happened . 9982715
+0 *_I a musical genre that's just EDM slowed down to , like , 20 BPM 9977974
+1 *_I Everything slowed down that much sounds like Sigur Ros . What people don't know is that if you speed up Sigur Ros by 10 times it sounds like Justin Bieber . 9982150
+0 *_E I'm going to start refering to marxism-leninism and trotskyism as " all the old crap of the thirties " <URL> 9961084
+1 +_S Extra points if you do it in the old timey radio voice with a trans-Atlantic accent . 9982042
+0 *_I so a dicision im milling over whilst i wait for washing to finish.get hair cut or not.its at a long length , but i do fancy not having a boiling head.my hair is thick as well so soaks all the rays 😁 9980650
+1 +_Q guys hair grows faster ? ? 9981842
+2 +_S I'd have it cut 9981842
+3 *_I just waiting for washing to finish then head to barbers . 9981968
+4 +_A tempted to do it myself , but feel like keeping my nose & ears ;) 9981968
+0 *_I When I took German first year of college my professor had us watch the Gummibär song and wrote on the syllabus " Learning goals : learn to say ' I am a Gummy Bear ' " 9974154
+1 *_J oh god , 9981916
+2 *_I flashbacks 9981916
+0 *_I Today's gamedev code progress : destroying cars no longer counts as murder . 9878913
+1 *_O What if the car is a transformer ? : O 9980966
+2 *_W That ... is a good question . That'd make the situation more complex . : 3 9981895
+0 +_I I'm lucky , I don't have to work outside so I'm spare from the worst . 9980924
+1 *_O What's the average summer temperature in Japan ? 9980924
+2 *_W it depends on the place , and exactly when in the season . we have early summer which is dry and pretty hot in tokyo , then rainy season which is cooler ( now ) , then it's super humid and hot and awful after that ( maybe average about 35 or so ) 9981744
+0 *_I oh neat . i'm probably polish too . 9981423
+1 -_M im sorry 9981488
+2 *_O why are you apologizing ? 9981603
+3 *_I if i'm a ( partially ) polish girl then i get to be like these girls : <URL> 9981603
+4 -_I its joke but also i dont like this country much 9981645
+0 *_V I wish I knew more Leftists who are Hindus but they're all neoliberal cunts 9958328
+1 *_I they all love modi for some despicable reason 9981558
+0 *_I i woke up at 5 as usual 9979445
+1 *_I even if it's usual you still woke up at 5 with us ! . 9981085
+2 *_I i mean my 5 am was 9 hours ago but 9981127
+3 *_I OHnvmdidn't realize that yr a brit 9981154
+4 *_D im not , 9981205
+5 *_O a ... a european ... or an australian ... 9981219
+6 *_W european 9981234
+7 *_Q are you yet another person I now know in Germany and Austria ... 9981300
+0 -_I It seems to be really hot in Europe . 9979850
+1 +_I Here it's 20 degrees , really nice ( but it's already evening ) 9979850
+2 -_I says 33-38 ° this afternoon where I am ( middle of France ) 9981239
+0 *_I has ears as well 9981138
+1 +_V i wish i could live my life that well 9981179
+0 *_I today i biked past a car with eyelashes glued on its front lights 9980955
+1 *_I theres a car near mine with is dressed as a dog 9981082
+0 +_S it'd be cool if the geek code were updated for today's world . 9879426
+1 -_I everything on it is from back in the 90s when people actually used usenet 9879426
+2 -_I There has been a coupole of attempts , but nothing really caught on . 9980897
+0 -_I It seems to be really hot in Europe . 9979850
+1 +_I Here it's 20 degrees , really nice ( but it's already evening ) 9979850
+2 -_I We are burning 🔥 🔥 9979911
+3 -_V hope you survive it ( or even enjoy it ) . 9980027
+4 *_I it's weird becaues I always think of europe as very cold in the summers somehow 9980027
+5 *_I We have a lot of variation depending where you are in Europe 9980508
+6 *_I ^ ^ My boyfriend's family live in Hungary where the winter is extreme and the summer hotter than in France . But yeah we're actually in a heat wave period , 9980508
+7 -_V I hope it gonna be less harsh next week 9980508
+8 -_V hopefully it will cool off , 9980622
+9 -_I that sounds really tiring 😨 9980622
+0 -_I if it isn't free software it's only a shitty proof of concept imothanks for the ideas fam , 9979363
+1 -_E now i'm going to copy them and destroy your business model 👌 🏽 9979363
+2 *_A this is hot 9980489
+0 -_I It seems to be really hot in Europe . 9979850
+1 +_I Here it's 20 degrees , really nice ( but it's already evening ) 9979850
+2 -_I We are burning 🔥 🔥 9979911
+3 -_V hope you survive it ( or even enjoy it ) . 9980027
+4 *_I it's weird becaues I always think of europe as very cold in the summers somehow 9980027
+5 -_D It is not unfortunately . These days 20 degrees is what we get at the coldest hours of the night 😓 9980349
+6 *_I I think this is just my image from going to paris & around there one summer some time ago in late july or august . 9980470
+7 -_I it was much much hotter here then and I took all the wrong clothes and totally froze 9980470
+0 -_I im awake and I shouldn't be 9968815
+1 -_I same 9969825
+2 -_J fuck . 9974302
+3 -_Q anyone manage to get back to sleep ? 9980397
+4 -_I I didn't ; - ; 9980397
+0 -_I It seems to be really hot in Europe . 9979850
+1 +_I Here it's 20 degrees , really nice ( but it's already evening ) 9979850
+2 -_I It ’ s 31 ° C here , and planned to go up to 36 today :( 9979994
+3 -_I and it'll stay in the 30 to mid - 30 ' s till Friday :( 9980121
+4 *_J wow . 9980209
+5 *_I here we are said to have a high of 29 tomorrow and then mid - 20s indefinitely from the end of the week onward ( plus lots of rain ) 9980209
+0 -_I It seems to be really hot in Europe . Here it's 20 degrees , really nice ( but it's already evening ) 9979850
+1 -_I It ’ s 31 ° C here , and planned to go up to 36 today :( 9979994
+2 -_J ouch . 9980047
+3 -_I cold water immersion required 9980047
+0 -_I So , all of us getting cross about Twitter's terms and conditions / 9963394
+1 -_R Do Not Track changes , remember you also need to take off the social media buttons on your blog . 9963394
+2 -_I Like I forgot to . 9963394
+3 *_S we need a mastodon social media button ! 9979662
+0 +_I Morning started with driving mum to the ER for an eye thing . So restful . Such a good omen for a focused and productive week . 9976807
+1 +_V I hope she's okay . 9979282
+2 +_I Seems to be . Eye drops to the rescue . 9979428
+0 +_I that's some good compression <URL> 9977857
+1 *_Q is it visually comparable ? 9979140
+0 *_I Yesterday I had this message on OKC 9977944
+1 -_I I made me puke after seeing this . Since then , I struggle with suicidal thoughts . I'm such an easy target . Sometimes , like now , I wonder if I made the right decision by saying out loud that I'm an incest victim . 9978271
+2 *_Q Did you say it on OKC ? 9978790
+3 -_V I hope it will not happen again . :/ 9978790
+4 -_I I deleted my account . I meant to do it anyway but that helped me . 9978940
+5 -_A that might be the best thing to do for now . 9979101
+6 +_V I hope you'll feel better soon . ^ ^ ' 9979101
+7 +_T Thanks 9979123
+0 -_I A simply astonishing number of " classic " rock songs from the 60s / 70s /8 0s are blatantly transphobic , homophobic , racist , or sexist . It's no wonder that white baby boomer men love " classic " rock so much . 9975386
+1 +_A OK , I'll switch to rap ( which is never sexist or homophobic ) . 9977840
+0 +_I Give a man a fish , and you will feed him for a day . 9975418
+1 -_I Call a man a fish , and you'll confuse him for life 9975418
+2 *_I Built like a fish , whole force in the tail 9977769
+0 *_I Any Spanish , Basque or English talking #gamedev wants my collaboration ? I want to learn a little bit about #gamedevI have few skills , but I'm a good boy . 9976890
+1 -_I I meddle with #gamedev from time to time , but probably have too few skills for stuff like collabs :/ 9977765
+0 +_S " hey man let's watch hentai " u n c om f o r t a b l e 9967171
+1 *_D what about watching a hen and a tie 9975124
+0 *_I Listening to this on a loop - <URL> 9972964
+1 *_Q you been watching Fargo by any chance ? 9972954
+0 *_I OK , so <URL> is basically Mastodon with the Twitter interface . 9765154
+1 +_I And it's far better than Quitter for GnuSocial , btw . 9765214
+2 +_I seems nice ! 9972837
+3 *_Q Is it easier to follow the conversations with it ? 9972837
+4 *_W It's really the same as Twitter . 9972951
+0 +_I This is a rare selfie ! Looking good hun . 9972340
+1 +_V Enjoy your day ! Cheers ! 9972340
+2 *_Q really ? 9972795
+3 *_I I feel like I post too often hehe . Maybe it's been awhile and I've just been taking a lot of them . 9972795
+4 *_I TBH - Only the second selfie I have seen from you in my almost 10 months of being on the fediverse lol . 9972923
+5 +_I It is pretty interesting to see the faces behind the names on here . 9972923
+0 *_I I'd like it if I could change size of the columns .. 9923925
+1 *_S you could do that with the Stylish browser extension ( Firefox , Chrome , Opera ) , setting up a rule for your instance.Hit me up if you need assistance . 9948901
+2 +_T Thanks for the tip , good sir ! 9972916
+0 -_I 🐙 no selfie yesterday because depressed . <URL> 9955281
+1 *_O hey . What happened ? 9955300
+2 -_W nothing in particular , just depressed and unmotivated 9972158
+3 +_Q do you want a hug ? 9972906
+0 +_I Tried aizu programming challenges , and it was ... interesting 9943078
+1 *_O What language did you use ? 9951550
+2 *_W I was going to use perl but there is no option for perl so I went with c . Their c complier haa some weird flags on it because I could do this for my for loopFor ( int x = 1 ; x < = MAX_X ; x + + ) 9972723
+0 -_I i'm just platform surfing to shitpost at unreasonable hours 9965355
+1 +_D gd it worked . 9970479
+2 +_S We should do a day without the other site . 9970479
+0 *_I In #germany people can buy powerful #gnu #linux laptops for #gaming <URL> 9877057
+1 *_D Not only in Germany - we're shipping for free inside the whole EU ! ( Even worldwide , but that's not free of charge . ) 9970383
+0 *_H Hello friends - 6891137
+1 *_Q does anyone know of an #anthropology or #archaeology instance running on mastodon ? 6891137
+2 -_W Haven't heard of any specifically oriented toward that - 9968130
+3 *_Q assume you looked through the list of instances ? <URL> 9968130
+0 *_I this ancom at those meetings i went three times once started praising justin trudeau and honestly but don't call yourself a communist if you stan neoliberalism that much 9967904
+1 *_I ancoms stay ancoming 9968053
+0 -_I I was on Twitter and saw people arguing about stolen tweets and this guy said " wow I'm taking my like away 9964658
+1 *_Q " And I realize , do people treat likes and retweets like currency or something , is that what's going on ? 9964658
+2 *_W Dunno . 9965530
+3 -_A However , even without treating them as one , I can imagine un-liking tweets if they were actually stolen from another user ( and trying to find and like the originals instead ) . 9965530
+0 -_I I'm going to start refering to marxism-leninism and trotskyism as " all the old crap of the thirties " <URL> 9961084
+1 *_D and I thought the " crap from the thirties " were the nazis ... 9962704
+2 -_I Silly me ! 9962704
+3 *_A <MENTION> true true , 9963250
+4 *_I but mein kampf was published in 1925 9963250
+0 *_I yo . your bio says ancienct astronaut theorist . 9950572
+1 *_Q do you watch ancient aliens ? 9950572
+2 *_W This is relevant to my interests . 9962815
+3 +_S we should organize a group watch ! ! ! 9963120
+0 -_I lol what if we live under a system that actively degrades our mental health in order to make us feel bad non-stop because that's the most effective way to make us buy things that promise happiness ( and work more in the process ) 9962962
+1 -_Q wait did you say what if ? 9963117
+2 -_I I thought this was already a given 9963117
+0 -_I lol what if we live under a system that actively degrades our mental health in order to make us feel bad non-stop because that's the most effective way to make us buy things that promise happiness ( and work more in the process ) 9962962
+1 *_O But how does recognition of this help ? 9963103
+0 *_I Ok , there is another reason to actually finish this phd . I can then say ' I'm the doctor ' because in the group I work in I will be the only one with a doctorate . 9962891
+1 *_I you're kinda reinforcing my resolution to not bother with PhD haha 9962976
+2 -_D don't , it isn't worth it . 9963024
+3 -_I If I had more than just this dame dissertation to write than I wouldn't finish it.Mainly I am finishing it so people will stop asking if I am going to finish it . 9963024
+0 *_I I'll try Attack on Titan . Greg calls it the BANANARAMA anime . 9953003
+1 +_I I really liked it a lot 9960781
+0 *_I i nearly forgot to put panties on today 9960483
+1 *_I oh I did not put panties on today 9960591
+2 +_I u are living my dream i am Proud , b free 9960688
+0 -_I It is deeply reaffirming to realize that you still enjoy most of the stupid music you liked as a teenager . 9951551
+1 +_D But as a teenager I listened to Chris De Burgh and Depeche Mode and Phil Collins , none of which were stupid . 9960610
+0 *_I Sweet I've collected a couple of new Mastonaut bandcamp albums to check out tomorrow . 9925141
+1 *_R Send me your music if it needs ears . 9925141
+2 *_Q do you have <MENTION> in your list of mastomusic ? 9942280
+3 *_W I do now , 9960544
+4 +_T thanks ! 9960544
+0 *_I Contrary to popular belief , it was Tesla , not Edison , who invented electricity . 9958107
+1 *_Q " invented " ? ? O_o 9958252
+2 *_W Look it up . Technically , it had been invented by an Indian mathematician in the fourth century , but it had been lost until Tesla re-invented it . #BadScience 9958307
+0 +_I wow this has been extremely fun but I gotta get my butt to bed . 9957988
+1 -_I i have to not spend all my work day tomorrow on this site . 9957988
+2 -_R please don't forget me :( 9957988
+3 *_H good night ! 9958281
+0 +_I Homeward bound , perfect day 💙 💙 ☀ ️ 💙 💙 <URL> 9957692
+1 +_J Wow , 9958220
+2 +_A that's beautiful ! 9958220
+0 -_I Feels a bit weird sitting at work with a box of " toys " in my bag ( ⁄ ⁄ • ⁄ ω ⁄ • ⁄ ⁄ ) 9957903
+1 *_O gettin ' all excited or what ? 9958007
+2 -_W More embarrassed ( / / ▽ / / ) 9958143
+3 *_I as long as they are still in the bag ... 9958200
+0 *_I According to the Gender Role Test ( <URL> ) I'm Undifferentiated-Androgynous ... I don't know about that , but it's convenient ... 9949242
+1 *_I Casually FeminineHuhI'm not sure how casual that can be but meh 9955810
+0 -_I Navigating some unfamiliar ( and quite recent ) additions to the Unity API and the amount of [ x is depreciated ] warnings the documentation is giving me is staggering 9952512
+1 -_A yepppppppp.baw gawd 9953831
+2 -_I i thought they were meant to be putting extra effort in to making the manual Good u_u 9955450
+3 -_I Tried upgrading a webgl project from 5.5 to 5.6 , totally busted it . we even have a contact at unity and all they gave us was a white paper and some draft of a Google docvideogames ! ! 😥 9955770
+0 *_I Ready for the alien invasion . 9955703
+1 -_I anything's better than this . 9955724
+0 +_I The cat is out of the ... box . 9947770
+1 *_Q But is it still alive ? And was it alive before the box was opened ? 9953476
+2 *_W Every GIF is alive , that's why they * move * silly ... sheesh . 9953524
+0 -_I An old ancom friend I'm messaging after a year is finding out how tankie I've become rn . 9524040
+1 *_J Oops ! 9524040
+2 *_I the " Stalin was actually cool " coming out moment is the hardest 😂 9524426
+3 *_A yeahhhhh 9525013
+4 -_I I probably won't go there tonight lmao . We were talking about the DPRK which was painful enough 9525013
+5 *_I I gotta work on not sounding like a nutjob when talking about the DPRK in public tbh . 9525239
+6 -_I it's hard bc the mainstream discourse is like sooooo extreme . So like just talking about the DPRK as you would any other country and not like it's a hell on earth , makes you sound crazy 9525648
+7 -_A EXACTLY . 9525985
+8 *_I It's like ... – Well , you now in the DPRK they have a - – Oh , the crazy little man , yeah . – ... 9525985
+9 -_I the orientalism is outta control 9526124
+0 *_O Where are y'all from / at ? 9514054
+1 *_W florida ! 9514592
+2 *_O what part ? 9514723
+3 *_W orlando ! 9526095
+4 +_I it's pretty decent ig . 9526095
+0 *_Q the onceler had a fandom ? ? ? 9526017
+1 *_W i was in it onceler fandom was real 9526068
+0 *_O where did you go ? 9362386
+1 *_I Seems that you don't use the mastodon anymore . 9362386
+2 *_W busy wit Python . both writing and teaching . 9509218
+3 +_J It's alive ! It's alive ! 9526050
+0 *_I im still in a vocaloid / utau phase sdfdsfs ... have been since fucjing 2007 ... BUT oh my god im not an embarrassing fan i swear 9525257
+1 +_I cant blame you , vocaloid is good 9525345
+2 +_I I LOVE IT SO MUCH 9525369
+3 +_O whats your favorite song ? if thats alright for me to ask of course ! 9525431
+4 +_W GOD THATS SO HARD TO ANSWER CUZ I HAVE SO MANY AND LOVE SO MANY PRODUCERS ; V ; 9525492
+5 +_J AHHHH ! ! ! 9525492
+6 +_O but what about you ? ? ? 9525492
+7 *_R give me sec , 9525624
+8 +_I ill link you to my number 1 ! 9525624
+9 +_J ok ! ! ! 9525764
+10 +_W ALSO ONE SONG I CAN THINK OF THATS RLY IMPORTANT TO ME IS DONUT HOLE ! ! 9525764
+11 +_A ALSO i love donut hole ! ! you have good taste friend 9525873
+12 +_J IS GOOD ! ! ! 9525957
+13 +_T AND AHHH THANK YOU , 9525957
+14 +_I I LOVE HACHI'S WORK ! ! ! 9525957
+0 -_I i genuinely considered kinning a vocaloid dont fuck with me about this matter 9525520
+1 -_I i hav 3 vocaloid kins ive been tryin 2 get rid of them but they wont go 9525790
+2 -_I i wanted to kin Yuezheng Ling for the longest time but uhhhh 9525926
+0 *_I An apache oneliner to rickroll people trying to access * . git folder * on your server : RedirectMatch ^ . * / \ . git ( / . * ) ? $ " <URL> " 9523338
+1 *_R Place this line in your server config or in each virtualhost you need . 9523338
+2 *_I 😍 9523376
+3 *_I reading this <URL> I thought I may do better than 403 ( Debian default security config ) 9523623
+0 *_R People ! Please share your knowledge . 9424369
+1 *_O How do you keep your #Notes ( Online / Offline ) together , how do you keep your #Bookmarks ( online / offline ) together , and why am i such a weirdo asking you all this ? 9424369
+2 *_W I make heavy use of IMAP notes . I can edit them through the web interface of my email provider and there is native support in the Notes app on all my Apple thingos . They all keep in sync and it works great . 9453423
+3 *_I I Never knew that this is possible . 9523579
+4 *_O Are these notes just mail drafts or something else ? 9523579
+0 -_I i cant get into enstars because my scouting luck is shit to none 9521036
+1 *_R look at the cards and read the storydont bother with actually getting them 9521086
+2 -_I im a greedy fucker i cant just look at them 9521124
+3 -_I i can relate but that only makes life harder on you 9521155
+4 +_I its ok love live is decent to me 9521214
+5 *_O how are u still alive 9521234
+0 *_I spaghetti code is free , the backend as a notice and it just came across that way as a ONE or Entity . All Creation occurs between Opposites . Academic ONEism destroys + 0 - brain . 9520058
+1 *_Q SpaceCube ? 9520203
+2 *_O Is this moonbot or lambadabot ? 9520203
+3 *_I cool AWS loads a youtube video in your AWS console , totally fine with offsite javascript embedding in my AWS console 9520586
+4 *_I That feels more familiar . 9521233
+0 -_I archer is aplatonic 9520369
+1 *_Q Des ? 9520365
+2 -_W he . is not . a people person . his kink is protecting the forest tori 9521231
+0 -_I wind archer is aplatonic 9520369
+1 *_Q Des ? 9520365
+2 -_W he . is not . a people person . his kink is protecting the forest tori 9521231
+3 -_R can you please not say it like that his forest protector kink role makes me want to kill mysef 9521227
+0 *_Q Is there a mastodon instance in Tor ? 9404602
+1 *_I I'm guessing all the other servers would have to be using Tor to interact with a . onion instance 9404602
+2 *_W I'm working on that . I'll keep you posted 9445385
+3 +_T awesome , thanks ! 9516988
+4 +_I I might need help admining the instance if you are interested . It should be up and running this weekend 9521198
+0 *_I Almost done with the Lineart . 9520804
+1 -_I Too bad I am extremely lazy and probably won't have this done for a few more days due to procrastination . #Art #Lovely #Order <URL> 9520804
+2 +_V Hope you get around to it , 9521118
+3 +_I it looks cute so far ! 9521118
+0 *_I this is w a mouse but this is my oc <URL> 9520775
+1 +_I i lobve them .. 9521092
+2 +_T thank u : ' ~ ) 9521115
+0 -_I i cant get into enstars because my scouting luck is shit to none 9521036
+1 +_R pwease appreciate my son tsukasa <URL> 9521090
+0 +_I I've mentioned this system before , but I can't get over how awesome the Holborn series lookedThis is the 6100 and 9120 ( pic with the lady ) and it's so Fallout ! 9500687
+1 *_Q Wasn't this also shown in the Soylent Green movie ? 9518835
+2 +_W Good eye ! But it was a floor standing computer , not a desktop 9519086
+3 +_J jeez , that was fast . 9519216
+4 +_I So possibly a set piece to look futuristic based on the desktop one . 9519216
+5 *_O Or do you somehow also happen to know that it was an actual computer ? 9519216
+6 +_I Ah , I was right ! It definitely was the arcade game . Here's more info on the exact model they redressed <URL> 9519904
+7 +_I that is wonderful . I love how they stuck a full TV in that cabinet instead of just the CRT 9520371
+8 +_I It's a pretty old trick , but considering the tech of the day , it was very cleverAlso , " modern " series were doing the same thingHere's a scene from StarTrek Voyager where you can clearly see the mouse cursor in the " LCARS " . Didn't know they still had mouse cursors in 2371 ;) 9520812
+9 +_A especially on a touch screen , 9521026
+10 *_O like why do you even need that ? ? 9521026
+11 *_W Definitely something for the blooper reel . Everything in StarTrek was touch or voice :P 9521089
+0 -_I this website is very confusing . 9511094
+1 *_I heres a doodle because this is an art thing . <URL> 9511094
+2 -_Q confusing ? \ 9521041
+3 +_R Just ask the void , we'll help ! 9521041
+0 -_I There is nothing worse than an airport with a closed Pre ✅ lineFlocks of grown humans with no idea what " laptops out of your bags " and " shoes must be removed " means . I grabbed 8 bins because I correctly guessed 4 of them would go to others ahead of me in line #KSJC 9508753
+1 +_I The last time I was at KSJC they'd given up all pretense of post -9/11 security and were keeping laptops in bags and waving folks through metal detectors with shoes on . It was wonderful . 9519329
+2 -_I this was not one of those times Nice airport tbh , just bummed that the airport bar is closed and my airplane is broken and I'm gonna sober up before they get a replacement aircraft in 9519807
+3 -_Q The plane is broken and the bar is closed ? 9519969
+4 -_I That's some Grade A bullshit right there . 9519969
+5 -_M Sorry fox . 9519969
+6 -_W I'm a cat , you inconsiderate clod ! = ^ . ^ = ... I think they're going to keep trying to start that engine manually until another 737 arrives in a half hour and we move over to that 9520510
+7 *_I This might be a - bit - off-topic .. but 9520954
+8 *_O what led you to creating vulpine.club as a cat ? 9520954
+9 *_I I mean , you're more than welcome to do that , I'm just a curious fox :) 9520954
+10 +_H Good luck with - finally - getting on flight , too ! 9520954
+11 *_A I had the same thought . ^ . ^ 9521021
+0 *_R May I nominate Provenance by Ann Leckie for spooky book club when it comes out ? 9457359
+1 -_I I'm very down ... I haven't read any good sci fi in awhile 9457746
+2 +_I if you don't want to wait Taiyo Fujii writes great hard scifi . Gene Mapper has good depictions of post-internet technology and Orbital Cloud helped me sort out plot points in my big fiction work 9460103
+3 +_I there is tons of good scifi right now actually , maybe we can push this in next book club while awaiting providence 9460643
+4 *_Q have you guys read the Mangoverse series by Shira Glassman ? 9470945
+5 *_W I hadn't heard of it before , just looked it up . 9470942
+6 *_Q Is it good ? 9470942
+7 +_W It is lovely . 9477908
+8 +_I I'm designing knitting patterns to represent the main characters , that's how much I enjoy it . 9477908
+9 +_I that's a recommendation fs , I will have a look ! Now I have to try to attack my massive backlog not to mention finish our book club book 😅 9477906
+10 *_Q actually this reminds me . Have we all gotten a chance to read Iain M Banks ? 9490924
+11 +_A in my case , yes , 9490920
+12 +_I all of it actually 9490920
+13 +_A I'm agreement with CP . Use of Weapons I liked more than Player of Games though . 9514477
+14 +_I I think I like mostly any of them where he reins in his desire to write hundreds of pages about things that are Very Big blowing up Very Spectacularly 9514474
+15 +_A yeah that's fair . 9518754
+16 +_I I think I'm more interested in explorations of the Culture than hard action 9518754
+0 *_I I want that Video Games shirt 9518586
+1 +_I It's more pure than just a plain black shirt tbh 9518680
+0 *_O Where are y'all from / at ? 9514054
+1 -_W Indiana unfortunately 😔 9514383
+2 *_O LOL why unfortunately ? 9514499
+3 -_W because it sucks . Our state has the largest percentage of T * * * p supporters and there's literally nothing here lol 9514692
+4 *_I I've seen that the midwest is even tighter with Trump than the South itself , 9514988
+5 *_Q that right ? 9514988
+6 *_A yes and they flaunt it . 9516279
+7 *_I It's because the midwest really isn't tied to any major cosmopolitan city except Chicago , Detroit and St . Louis . 9516279
+8 -_I Most of the midwest is rural and the rural population is uneducated redneck white folk . 9516279
+9 -_Q so they're still rocking with him ? after all that's happened since he took office ? 9516467
+10 -_A yes and on top of that , they refuse any factual evidence against him because their entire lineage are republican loyalists . 9517349
+11 *_Q aren't they doubting him though ? Like , he isn't your traditional republican . 9517662
+12 *_W not at all . Even though he isn't traditional , he still on the side of the GOP and to them , that's really all that matters . 9518302
+13 *_Q so GOP sympathizers in the MIdwest are some of those people who equate liberalism and Dems to the Left huh ? 9518597
+0 +_I I'm getting back into KSP career mode and it's a lot of fun , especially with more difficulty settings on ( like plasma blackouts and G-force limits ) . 9472979
+1 *_Q do you play with USI ? 9515206
+2 +_I I highly recommend it . Really awesome progression and added difficulty 9515206
+3 -_D I never have , 9515341
+4 +_I I'll definitely check it out ! 9515341
+5 *_O What other mods do you use ? 9515341
+6 *_W my 1.2 . 2 save is very heavily modded , but a short list is all of Nertea's mods , USI , EPL , OPM , DMagic Orbital Science , Airplanes Plus , and Mk2 / Mk3 expansion . 9516258
+0 *_H Good night everyone . 9516050
+1 +_S Let's make tomorrow rock . 9516050
+2 +_A I'll vote for that ! 9516207
+0 -_Q semi official shuttering of the academy ? 8851084
+1 -_W NEVER I'm just awful at remembering things 9516206
+0 *_I this is like . a nitpick 9515617
+1 -_O but why do people write depressed characters as only listening to super emo music like catch my depressed ass listening to carly rae on repeat 9515617
+2 *_W ok like when i'm feeling real emo i JAM to fetus taylor swift it's a Thing 9516189
+0 *_R wait 9515686
+1 *_Q did the same dude that made haikyuu make bnha because the manga styles look so similar 9515686
+2 *_W but i thought that at first lol ... 9515855
+3 +_I haikyuu guy has a neat short manga about some weird horror story guy ( Good Stuff ) and bnha guy has a Sadly Discontinued really good one called oumagadoki zoo , if ur interested tho ( u can find both on mangafox ) 9515855
+4 *_I THEY LOOK SO SIMILAR im surprised its not the same artist but il check out both of them : O 9515895
+5 *_I bnha is a little more Round , kinda organic in a way , while haikyuu has sharper lines and shapes . if u look at them for a while u can start to notice the differences ! ! 9516182
+0 +_I So I'm honestly real fucking happy that the federated timeline mostly seems to be a bunch of suuuper bitter anarchists . My people . 9506072
+1 +_Q ( Perhaps I should hop to the instance that's like , specifically about that ? ) 9506072
+2 +_W Best part is — you can do both ! 9516109
+0 *_Q I invest in an icon ? 9355986
+1 *_W ( It's a new mechanic . But I think innovation spread is appropriate for this country ... ) 9356050
+2 *_W lemme blow your mind :p lay as a custom nationwith siberian frontier as a starting ideain north america 9356814
+3 *_F Uh ... 9472666
+4 *_I let the colonies hit the floor <URL> 9516055
+5 *_O Whut . 9516096
+0 -_I I keep going back and forth between finding it super irritating and super funny . 9512185
+1 -_R Someone tell me how to feel ! 9512185
+2 -_I on one hand , it seems petty . on the other hand , i experience a reflexive fear that commonly referring to the fediverse in the language of commoditization is the first step in it somehow becoming birdsite 9513925
+0 -_I disgusted prompto pictures i have <URL> <URL> <URL> <URL> 9513812
+1 -_I the bottom right one looks like he could kill me at any moment 😍 9513877
+2 -_I god i wish that were me part 2 9513905
+0 *_I also i did art last week of blue diamond from #stevenuniverse sjshsj i'll stop here i'm nervous #mastoart #art <URL> 9512550
+1 +_I ahhhh eyes . y'all all seem to art the most beautiful gaze that makes me wonder what they're staring at in the distance . Soooo happy to have you here & inspiring others ! 9513860
+0 *_I Communist and anarchist aren't mutually exclusive . 9511351
+1 *_I all decent communists and anarchists want the same thing , we just disagree on how to get there 9513857
+0 *_R LOOK WHO I WAS BEHIND TODAY <URL> 9491733
+1 *_I Okay , I'll guess : 9497595
+2 *_Q Bill Gates . ? 9497595
+3 -_I ( bepis , which is what this plate reads , is a meme , it's a little stupid ) 9513843
+0 -_I i hate this app 9512911
+1 *_O then why you're here 9513814
+0 *_I it's 1am and i'm gonna do some #asian tweeting and talk about some shows u all should watch about asian families in diaspora 9512946
+1 -_I unfortunately like . almost all are east asian based . :( 9512946
+2 -_O When will my fellow East Asians let anyone else at the media cake , honestly . 9513611
+3 -_I I get that we're still only getting a sliver of the whole thing , but it would still be better to also give literally any other Asian groups opportunities , too . 9513611
+4 -_A yeah it's like SO obvious too like i genuinely was trying to think of se / s asian actors in hollywood and u can really only think of the Big Names while there r a good # of east asians , i mean it's bad for all of us , but even more so for not east asians . 9513808
+0 *_Q sen are u sure 9513725
+1 *_W i may have spoken too soon 9513769
+2 *_Q see ? 9513795
+3 -_I this happens when u think about it you fool 9513795
+0 *_Q yes or no do i eat my last pint of ice cream tonight 9513650
+1 *_W the world might die tomorrow so go for it while you can . 9513766
+0 *_Q yes or no do i eat my last pint of ice cream tonight 9513650
+1 *_W u deserve it eat that mother cucker 9513747
+0 +_I That little animation when you relay or florp a ping 👌 👌 👌 👌 👌 👌 👌 👌 👌 👌 👌 👌 👌 👌 9513380
+1 +_I I unflorped and reflorped this ping just to watch the animation again 9513734
+0 *_I it defines me perfectly . I wanna cry " DOX ! moonman ban dirb ! " 9509294
+1 *_I I thought that <MENTION> was already doxed <URL> 9509285
+2 *_R read the Terms of Service for the joke . _I_ have yet to be doxxed . Plus , challenge people to do so . It's somewhere in my timeline ! 9511155
+3 *_Q there was a ToS ? , 9511148
+4 *_I I thought that the domain name was self explanatory 9511148
+5 +_W lol there is ! e . g . no posting loli shota gore dox harrasment , and plenty other US Arizona shit 9511520
+0 *_I it defines me perfectly . I wanna cry " DOX ! moonman ban dirb ! " 9509294
+1 *_I I thought that <MENTION> was already doxed <URL> 9509285
+2 *_R read the Terms of Service for the joke . _I_ have yet to be doxxed . Plus , challenge people to do so . It's somewhere in my timeline ! 9511155
+3 *_Q there was a ToS ? , I thought that the domain name was self explanatory 9511148
+4 *_I lol there is ! e . g . no posting loli shota gore dox harrasment , and plenty other US Arizona shit 9511520
+5 *_A yes , I read it , that was also a joke 9511516
+0 +_I i love chrom 9511397
+1 +_I he have no ass 9511442
+0 *_O uh what's this federated timeline compared to the other one 9510722
+1 *_W someone on an instance follows someone on another instance , the account from the second instance's toots become visible to the first instance through the federation timeline 9511141
+2 +_T ohhhh thank you ! ! 9511256
+3 +_I its actually all of the toots from the second instance , not just the account that was followed . so its basically seeing the local timeline along with the timelines of other instances 9511422
+0 -_I the shitposting is real 9510682
+1 *_Q local TL ? 9510765
+2 -_W well , both federated and local lol like what is even going on 9510809
+3 *_I my home TL is active I'm not even looking at those . 9510998
+4 +_S You gotta start following people who toot this late at night lol . It works . 9510998
+5 +_A yeah , i'll have to go around later and look for more likeminding people to follow 9511127
+6 +_A yeah , I mean this site is already super friendly ... 9511232
+7 +_A it is , like i haven't had even one asshole in my notes and that's just astounding 9511409
+0 -_I milk is nasty next topic ! 9511023
+1 -_I block me back 9511140
+2 -_I this is lactose intolerant hate 9511349
+0 -_I u know that thing where you exist and then a body part starts hurting 9509160
+1 -_A I know that thing . 9509158
+0 -_I so i started rewatching the office in the evenings while i work and it's so painful . JIM . PAM . JUST DO IT . 9508139
+1 -_I my tolerance for awkwardness humor is low ( and not getting better ) ... I find " The Office " almost unwatchable 9508232
+2 -_A yeah . so awkward . it's very painful 9508359
+3 -_Q do people actually enjoy TV about , well , unpleasant people ? 9508549
+4 -_W I guess I do , sometimes , but seriously I get my fill of people being petty and vindictive in my daily life 9508549
+5 -_W See , the thing is that there are enough pleasant people that it strings you along ( for certain values of " you " ) 9508634
+6 -_A mheh , well said ! and you put your finger right on it , Jim and Pam are supposed to be those people for us , but after a while they just look insufferable too 9508716
+7 -_A yeah , I kind of stopped watching at some point when it was on because I couldn't deal with it anymore . 9509110
+8 -_O I mean , before Jim and Pam are together , you have that they really have to bone at some point . After they're together , why endure ? 9509110
+0 *_A Yeah , and other services too , 9508975
+1 -_I I dread every time I open whatsapp on my phone . Having anxiety about everything is some tiresome business . 9508975
+2 -_O anxiety , you say , what is this aaaanxieeetyyy ... 😅 9509101
+0 *_Q did somebody say akashi <URL> 9508953
+1 +_A GHHYEAGH HELL YHEAH BOIYGEHYEAJ 9508992
+2 *_I he's got bondage underneath 9509068
+0 *_I spring man better be in the next smash bros 9508742
+1 *_I girl is superior . you see she kicks his ass 9508985
+2 *_I everyone kick springmans ass i want it 9509057
+0 *_O I am awake but at what Cost 9508741
+1 *_H good morning 🍆 9509052
+0 -_O whats up witch town twitter is even worse now 9508916
+1 -_A eeyup ! 9509041
+2 -_W and what's up ... not much of anything :} 9509041
+0 *_I man better be in the next smash bros 9508742
+1 *_I ribbon girl is superior . you see she kicks his ass 9508985
+2 *_I i want this 9509021
+0 *_O are you from berenstein universe or berenstain universe ? 9470755
+1 *_W I definitely grew up in a Berenstein Bears universe , and I'm not sure when I transitioned into Berenstain universe 9509003
+2 -_W but I don't like it here . I want to go back . 9509003
+0 *_I gay rights 9508927
+1 *_I 1000000 boosts 9508967
+0 -_O I really wonder why Beelzebub doesn't have 2nd season ? 9074784
+1 -_W nope sadly it doesn't , also anime stopped following manga after 49 episodes so rest 11 episodes are fillers , 9108143
+2 +_W but still it's one of my favourite delinquent based anime 😆 😆 9108143
+3 -_I that's why I felt confusion when I compare the manga to the Anime . I really wonder Why it was desperately forced to end that badly . 😭 😭 😭 9129178
+4 -_I I was to disappointed by watching the end , then someone said me anime didn't follow the manga so there's no chance of 2nd season . Damn I wonder why such things happen with amazing animes .. 9130246
+5 -_I when I read it in the net , most if there comments said that because the anime is more on violence that's why theres no chance of having a second season . I wonder why it only happens to beelzebub 😭 😭 9500341
+6 -_D nah that's not the reason , just think that anime doesn't follow the manga and adds it's own story and fillers , makes no sense , 9503664
+7 -_O so what do you think they'll show in 2nd season ? 9503664
+8 +_I and sadly I love this anime as it's the best delinquent based anime xD . 9503664
+9 -_A very well said ! In short , just made as dissapoint ! I really expect more towards this anime 😭 😭 9504802
+10 -_A yeah exactly , well it's rare to see a delinquent raising a baby , and it's not ordinary baby though 😂 😂 9506731
+0 +_I A snow leopard sphynx ( sans wings , ooops ) for SpikieAMR on twitter as part of the myth_xchnge ( also on twitter ) . I ’ d love to take this to paper one day when I ’ m feeling a little more confident - gotta buckle down on capturing atmosphere more often ! 9506001
+1 +_I DANG I love the intensity of her expression in the sketch ! ! Sphinxes are the best 9506716
+2 +_Q should I post some of my old ones ? 9506716
+0 +_I i never mentioned this but my character in dragon D & D is a beautiful genderfluid bronze dragon . her favored humanoid form is that of a sailor man ( actually in her back story she was a fisherman but i always refer to her as a buff sailor ) . i love her 9506294
+1 +_I omg I love the idea of a genderfluid shape-changer so much ! 9506671
+0 +_I i never mentioned this but my character in dragon D & D is a beautiful genderfluid bronze dragon . her favored humanoid form is that of a sailor man ( actually in her back story she was a fisherman but i always refer to her as a buff sailor ) . i love her 9506294
+1 +_I omg I love the idea of a genderfluid shape-changer so much ! 9506671
+2 +_A it is 100 % the best thing , highly recommend 9506665
+0 *_O hey jordan ? 9506214
+1 *_R Stop It 9506214
+2 *_I im an innocent third party in all of this 9506662
+0 -_O okay , how do people who don't have VC money pouring out their ears put up with this ? 9504010
+1 -_I like , tools exist to manage bare metal and nocix gives you a much better deal 9504010
+2 -_W nocix and aws aren't even the same species . you can't really compare them like that . 9504989
+3 -_A true . 9505147
+4 *_I i'm just trying to find something that works Good Enough for my ( apparently niche and weird ) use case 9505147
+5 *_I AWS isn't about getting a single server online to do linuxy stuff . It's about large automated deployments of software and auto-scalling systems . The ability to spin up and down massive amounts of compute power at a whim . 9505562
+6 +_A yeah . 9505623
+7 -_I i don't have the budget to do anything like that , so not the place for me to be lookin ' . :/ 9505623
+8 -_A Yup . 9505976
+9 -_I And probably not all the time and patience it takes to write and maintain the kind of obnoxious software necessary to run such an environment . God knows I don't 9505976
+10 *_I if i could save money doing it and get experience in doing it for the future , i totallu would learn all that obnoxious stuff . 9506661
+0 -_I ... apparently I'm at that level of emotional corniness where the DS9 theme plays on shuffle and I start crying 9499148
+1 -_A Yes , 9505926
+2 -_Q but have you ever burst into tears during a Richard Simmons tape after he chirps " I love you ! " to the camera ? ( But seriously I was pretty bummed when DS9 ended because THOSE ARE ALL MY FRIENDS , GUYS . ) #criesatparadefloats 9505926
+3 -_W I think the lamest thing I've ever cried at was a Barry Manilow song , so I feel ya . 🙃 9506650
+4 *_O I ... can I hear the parade float story ? ! 9506650
+0 +_I I'm on a Naruto binge currently , and I just can't stop . 💛 9473322
+1 +_I me with JJBA 9477242
+2 +_O HONESTLY , WHAT WOULD LIFE BE WITHOUT ANIME ? ! 9506640
+0 -_I ... apparently I'm at that level of emotional corniness where the DS9 theme plays on shuffle and I start crying 9499148
+1 *_O Speaking of : Forever grumpy that the dang Garak book is A ) out of print and B ) $ 35 in paperback . 9499605
+2 -_I eXcUsE mE 9499605
+3 -_I this is such a Crime . 9505691
+4 -_A RIGHT . 9506372
+5 -_I I bought the ebook last year out of resignation and the vague hope that Robinson would see even a fraction of the money . ( 😢 🦎 ) 9506372
+6 +_I I hope he does because he is Cool and Good ( like many of the other minor DS9 characters ) 9506525
+0 +_I oh also before i go i've made lots of new mutuals on here 9466514
+1 *_R so drop your twitter <MENTION> ' s so i can follow you on there as well 👇 🏽 👇 🏽 👇 🏽 9466514
+2 *_I same as on here 🍒 9504315
+0 *_I i'm still unsure if I should keep my sega cd or not 9503634
+1 *_I ABSOLUTELY 9503685
+2 *_Q can I burn sega cd games to a blank disk and have then just work ? 9504230
+3 *_W tbh the only reason I have a sega cd is so I can play SNATCHER on it someday 9504309
+0 *_I PSA : Your daily allowance of ~ AWOO ~ has been resetYour new balance is : ∞ #PublicServiceAwoo 9503935
+1 *_O what if i'm unlicensed tho what is the awoo allowance penalty ? 9504021
+2 *_W see , thats the best part , you actually don't need a license ! 9504234
+3 *_O Whaddaya think this is ? The FCC ? 9504234
+4 -_W idk i heard other people say there were penalties for unlicensed awoos 9504296
+0 *_O how do people even pay these prices for amazon or google cloud 9503581
+1 *_W with your data i think 9503736
+2 *_I but you're still paying a lot of money for the instances themselves ... 9503811
+3 *_I i mean a lot of companies run on AWS who use your data to make money 9504018
+4 *_A oh , i see . yeah ... 9504082
+5 *_I the target market is enterprise customers it seems to me you pay a premium for all of the fancy cloud shit 9504182
+6 *_I apparently , because the alternative is paying even more money to hire someone who knows anything about syadmin and that's Not Hipster Enough 9504286
+0 *_O how do people even pay these prices for amazon or google cloud 9503581
+1 *_W with your data i think 9503736
+2 *_I but you're still paying a lot of money for the instances themselves ... 9503811
+3 *_I i mean a lot of companies run on AWS who use your data to make money 9504018
+4 *_A oh , i see . yeah ... 9504082
+5 +_I we actually save a lot of time not having to manage db / cache / mq by using AWS stuff at work 9504280
+0 *_I first house i buy , i'm gonna spend a few months researching flag makers . and find someone to make me a black flag to hang on the house . 9503994
+1 *_I like this deep velvet , smokey fading , sucking void of a black . a black that'll almost completely consume if you stared long enough 9504119
+2 *_I weather resistant coating . i'm about to drop some cash on a flag . 9504196
+3 *_I in about 5-10 years 9504221
+0 +_Q is jane the virgin the only good cw show lmao 9501181
+1 +_W izombie and crazy ex girlfriend are also good i hear 9504206
+0 -_I Worst possible thing that could happen when your out and your waiting for your SO . <URL> 9502263
+1 -_O Which pen did you break ? 9502461
+2 -_W i ran out of lead ... 9502577
+3 -_O OH , well color me stoopid.Which pencil is that and what lead size ? 9502851
+4 -_W its 0.7 size lead . Ugly green comfortmate grip mechanical pencil . I did not come prepared 😣 9503526
+5 *_Q Have you ever looked at the Staedtler 2.0 mm lead holders ? 9503870
+6 +_I They are like a real pencil ( you actually need a sharpener ) but refillable . I have 2 loaded up with 2B and 2H and swear by ' em . Far better than your typical mechanical . 9503870
+7 *_W i have one of those . 9504195
+8 -_W But tbh i didnt really like using it ... mechanical was always my go to . But to each their own . Lol 9504195
+0 *_R also yes thats my actual surname . take that information and do with that what you will 9501594
+1 -_I i leaked my whole ass name on twt when i posted my grades for you and i havent even deleted it 9501713
+2 -_I Holy Fuck i completely forgot about that fsdhfjdsh 9501753
+3 -_I looking back on it like God what was my problem lmao i was such a pussy 9501844
+0 -_O How can people still genuinely believe Google cares about not being evil ‽ 9501704
+1 -_I It's pretty obvious evil is just one of their numerous enterprises . 9501704
+2 -_Q Evil ? 9501807
+3 -_W It's the capital E in the alphabet they have misappropriated :-) 9501807
+0 -_I so im scared of bad weather because i lived thru a tornado 9501484
+1 -_A i feel u . 9501557
+2 +_I i got some Sweet Trauma during a storm so they fuck with me too . solidarity 9501557
+3 -_I solidarity in like ... Fuck weather u kno like ugh fuck it 9501735
+4 -_I i would kick a storm's ass if i could 9501779
+0 +_I what space seems pretty real . next up is dinosaurs i guess 9483169
+1 *_I DINOSAURS , YOU SAY <URL> 9499499
+0 *_I i have literally not spoken a word on social media in like 2 weeks 9499452
+1 -_I i dont have anything to contribute to society 9499452
+2 +_I just be yourself darling , youre naturally funny and so adorable ! 9499451
+0 -_I Weirdos . All of the major targets are metro areas with immigrants ... and shit , just civilians in general . Fuck that . 9498725
+1 -_I he obsession with violence is off-putting honestly 9498903
+2 -_I killing your way to communism will surely persuade people and not make them think you're an evil dictator . 9499207
+3 -_I and they think the posadists are bizarre 9499430
+0 +_I went to the grocery store and bought a bag of carrots , now consider if you will that people took the time to design , print , and apply an ingredients label for that bag.Ingredients/Ingrédients : Carrots / Carottes 😔 9496377
+1 +_I I love that there's the French translation too . 9497536
+2 *_I I want to believe that whoever designed it was an anglo and wasn't entirely comfortable in their high school french , so they hired a translator . 9498815
+3 +_I I hope so ! ! Those are the real job creators . 9499429
+0 *_I here on my right i have an xbox one xto my left i have an x box 9499242
+1 -_I one sone lies a 9499242
+2 +_I nd the other tells truths 9499242
+3 *_O which one will u pick 9499242
+4 *_W the very first xbox becausr i can play shadow the hedgehog on it 9499331
+5 +_I correct u may now go on your merry way loyal adventurer 9499393

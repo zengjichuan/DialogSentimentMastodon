@@ -1,3 +1,13 @@
+# This class takes care of loading the Mastodon dialogs from files that contain linearized dialogs from the Mastodon Twitter-like social network
+# The required training files are: tmptrain.wds.{0-9}, where each digit represents one cross-validation fold
+# The required development files are: tmpdev.wds.{0-9}
+# The required validation file is: datatestJoint.idx (there is no cross validation for validation)
+
+# All these files are commited in github along with this code
+# There are other files with additional information, such as the .tootids files, which contain a unique identifier from the octodon.social Mastodon server for every post. This identifier allows to retrieve the original post and all of its meta-data from the octodon.social server, but it is not required to train the model in the paper.
+
+corpdir = "../../corpus/"
+
 class Tweet():
     def __init__(self,l):
         ss=l.split()
@@ -10,6 +20,10 @@ class Tweet():
 
 class MastoData():
     def __init__(self,task):
+        # "task" may be:
+        # "DA" for dialog act recognition only
+        # "SE" for sentiment analysis only
+        # "JO" for joint dialog act and sentiment recognition
         self.task=task
         self.traindialogs=[]
         self.devdialogs=[]
@@ -17,7 +31,7 @@ class MastoData():
         for i in range(10):
             trainFold=[]
             curdialog=[]
-            with open("./tmptrain.wds."+str(i),"r") as f:
+            with open(corpdir+"./tmptrain.wds."+str(i),"r") as f:
                 for l in f:
                     tweet = Tweet(l)
                     if tweet.isFirstTweet:
@@ -28,7 +42,7 @@ class MastoData():
                 self.traindialogs.append(trainFold)
             devFold=[]
             curdialog=[]
-            with open("./tmpdev.wds."+str(i),"r") as f:
+            with open(corpdir+"./tmpdev.wds."+str(i),"r") as f:
                 for l in f:
                     tweet = Tweet(l)
                     if tweet.isFirstTweet:
@@ -40,7 +54,7 @@ class MastoData():
 
         testFold=[]
         curdialog=[]
-        with open("./datatestJoint.idx","r") as f:
+        with open(corpdir+"./datatestJoint.idx","r") as f:
             for l in f:
                 tweet = Tweet(l)
                 if tweet.isFirstTweet:
