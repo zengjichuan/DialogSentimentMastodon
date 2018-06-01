@@ -1,8 +1,10 @@
+# This program loads a set of logfiles produced by launch.sh and compute the average accuracies
+
 import sys
 from os import walk
 import numpy as np
 
-logdir = "logda"
+logdir = "./"
 nepoks = 500
 
 def loadlogs():
