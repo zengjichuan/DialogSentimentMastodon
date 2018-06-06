@@ -55,8 +55,8 @@ cd code/hierarchicalRNN
 ./launch.sh
 ```
 
-The program should run for a few hours and displays various intermediary results.
-Once it has finished, the last line shows two numbers: the dialog act F1 and the sentiment recognition RF1 on the test set, which should be around 54% and 39%.
+The program should run for a few hours and display various intermediary results.
+Once it has finished, the last line shows two numbers: the dialog act F1 and the sentiment recognition F1 on the test set, which should be around 54% and 39%.
 
 You may also experiment with mono-task, or with various limited corpus size, by editing the file xpMT.py: please look at the comments in this file for details.
 
