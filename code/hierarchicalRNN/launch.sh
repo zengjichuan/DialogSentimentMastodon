@@ -8,10 +8,13 @@ XPtype="fast"
 
 # requirements:
 # - linux OS (tested on Ubuntu 16.04.4 LTS) with bash and python 2.7.12
-# - pytorch (tested with version 0.3.0.post4) must be installed within a virtualenv located at $HOME/envs/pytorch
+# - numpy,pytorch (tested with version 0.3.0.post4) must be installed within a virtualenv located at $HOME/envs/pytorch
 
-if [ ! -f $HOME/envs/pytorch/bin/activate ]; then
-    echo "ERROR: you must have pytorch installed in a virtualenv in $HOME/envs/pytorch"
+# edit the following variable to the location of your virtual environment with pytorch
+envdir="$HOME/envs/pytorch/bin/activate"
+
+if [ ! -f "$envdir" ]; then
+    echo "ERROR: you must have pytorch installed in a virtualenv in $envdir"
     exit
 fi
 
@@ -19,7 +22,7 @@ rm -f logdase.*
 
 curdir=""$(pwd)
 echo "#!/bin/bash" > runda.sh
-echo 'source $HOME/envs/pytorch/bin/activate' >> runda.sh
+echo 'source "'$envdir'"' >> runda.sh
 echo 'cd "'$curdir'"' >> runda.sh
 echo 'i=$(echo $1 | cut -d_ -f1)' >> runda.sh
 echo 'j=$(echo $1 | cut -d_ -f2)' >> runda.sh
