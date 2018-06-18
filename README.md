@@ -25,7 +25,7 @@ Requirements
 ------------
 
 - linux OS (tested on Ubuntu 16.04.4 LTS) with bash and python 2.7.12
-- pytorch (tested with version 0.3.0.post4) that must be installed within a virtualenv located at $HOME/envs/pytorch
+- numpy,pytorch (tested with version 0.3.0.post4) that must be installed within a virtualenv located at $HOME/envs/pytorch
 
 
 Datasets
@@ -54,6 +54,9 @@ You may run a single experiment (training and test of the joint multi-task model
 cd code/hierarchicalRNN
 ./launch.sh
 ```
+
+The program should run for a few hours and display various intermediary results.
+Once it has finished, the last line shows two numbers: the dialog act F1 and the sentiment recognition F1 on the test set, which should be around 54% and 39%.
 
 You may also experiment with mono-task, or with various limited corpus size, by editing the file xpMT.py: please look at the comments in this file for details.
 
