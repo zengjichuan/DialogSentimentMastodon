@@ -41,8 +41,8 @@ def checkDups():
     print("check dups ok")
 
 def recurs(lnodes,curidx):
-    lnodes.append(curidx)
     node=dialognodes[curidx]
+    lnodes.append(node.id)
     for filsidx in node.sons:
         recurs(lnodes,filsidx)
 
@@ -52,7 +52,7 @@ def savedialogs():
         for r in roots:
             nodesindial=[]
             recurs(nodesindial,r)
-            f.write("root "+str(r)+" : "+' '.join([str(x) for x in nodesindial])+'\n')
+            f.write("root "+str(dialognodes[r].id)+" : "+' '.join([str(x) for x in nodesindial])+'\n')
 
 def addLink(i,p):
     cur=None
@@ -81,9 +81,13 @@ def dialogs():
         for l in f:
             res=json.loads(l)
             for t in res:
-                parent = t['in_reply_to_id']
-                allids.append(t['id'])
+                parentstr = t['in_reply_to_id']
+                if parentstr==None: parent=None
+                else: parent = int(parentstr)
+                curid = int(t['id'])
+                allids.append(curid)
                 par.append(parent)
+    print("ids %d %d" % (min(allids),max(allids)))
     np,npin=0,0
     for i in range(len(allids)):
         if i%1000==0: print("step %d %d" % (i,len(allids)))
