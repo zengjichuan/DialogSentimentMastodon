@@ -7,7 +7,7 @@ from json import JSONDecoder
 from functools import partial
 
 # put the instance needed here
-inst='https://mastodon.macsnet.cz/api/v1/timelines/public?local=1'
+inst='https://octodon.social/api/v1/timelines/public?local=1'
 
 with io.open("toots.txt","a",encoding="utf8") as f:
     while True:
