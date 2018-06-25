@@ -3,18 +3,19 @@
 import io
 import json
 
-fich = "toots.txt"
+fich = ["cleaned.txt","toots.txt"]
 
 def show():
     # reload and show toots
-    with io.open(fich,"r",encoding="utf-8") as f:
-        for i in range(1):
-            l=f.readline()
-            res=json.loads(l)
-            for t in res:
-                # parent = t['in_reply_to_id']
-                # print(t['id']+" "+str(parent))
-                print(t['content'])
+    for f in fich:
+        with io.open(f,"r",encoding="utf-8") as f:
+            for i in range(1):
+                l=f.readline()
+                res=json.loads(l)
+                for t in res:
+                    # parent = t['in_reply_to_id']
+                    # print(t['id']+" "+str(parent))
+                    print(t['content'])
 
 dialognodes=[]
 
@@ -77,16 +78,17 @@ def addLink(i,p):
 
 def dialogs():
     allids,par=[],[]
-    with io.open(fich,"r",encoding="utf-8") as f:
-        for l in f:
-            res=json.loads(l)
-            for t in res:
-                parentstr = t['in_reply_to_id']
-                if parentstr==None: parent=None
-                else: parent = int(parentstr)
-                curid = int(t['id'])
-                allids.append(curid)
-                par.append(parent)
+    for ff in fich:
+        with io.open(ff,"r",encoding="utf-8") as f:
+            for l in f:
+                res=json.loads(l)
+                for t in res:
+                    parentstr = t['in_reply_to_id']
+                    if parentstr==None: parent=None
+                    else: parent = int(parentstr)
+                    curid = int(t['id'])
+                    allids.append(curid)
+                    par.append(parent)
     print("ids %d %d" % (min(allids),max(allids)))
     np,npin=0,0
     for i in range(len(allids)):
