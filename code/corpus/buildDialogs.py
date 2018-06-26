@@ -29,6 +29,7 @@ while True:
             if not id2clust[i]==id2clust[parentid]:
                 id2clust[i]=id2clust[parentid]
                 modif+=1
+        else: id2clust[i]=parentid
     print(modif)
     if modif==0: break
 
